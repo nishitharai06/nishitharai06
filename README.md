@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Nishitha
 
-<!-- Optional banner image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nishithanishi06/nishithanishi06/main/assets/banner.png" alt="banner" width="100%"/>
-</p>
-
 ## 🧠 About Me
 I’m a passionate developer who loves crafting clean, efficient, and user-friendly software.  
 I enjoy solving complex problems and continuously improving my technical skills.
