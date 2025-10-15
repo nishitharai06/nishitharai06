@@ -22,7 +22,13 @@ I enjoy solving complex problems and continuously improving my technical skills.
 
 ### 🧪 Software Testing
 <p>
-  <img alt="FunctionalTesting" src="https://img.shields.io/badge/FunctionalTesting-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <!-- Testing Types -->
+  <img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-0078D7?style=for-the-badge&logoColor=white"/>
+  <img alt="Functional Testing" src="https://img.shields.io/badge/Functional%20Testing-28A745?style=for-the-badge&logoColor=white"/>
+  <img alt="Non-Functional Testing" src="https://img.shields.io/badge/Non--Functional%20Testing-FF5733?style=for-the-badge&logoColor=white"/>
+  <br><br>
+  <!-- Tools -->
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
