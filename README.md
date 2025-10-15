@@ -4,7 +4,7 @@
 I’m a passionate developer who loves crafting clean, efficient, and user-friendly software.  
 I enjoy solving complex problems and continuously improving my technical skills.
 
-**🌱 Currently learning:** Advanced Python, API automation, and full-stack web development.  
+**🌱 Currently learning:** Advanced Python, API automation
 **💬 Ask me about:** Software Testing, Java, JavaScript, and clean code practices.  
 
 ---
@@ -22,7 +22,7 @@ I enjoy solving complex problems and continuously improving my technical skills.
 
 ### 🧪 Software Testing
 <p>
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img alt="FunctionalTesting" src="https://img.shields.io/badge/FunctionalTesting-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
